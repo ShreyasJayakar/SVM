@@ -1,1 +1,1 @@
-# Sipport Vector Machine
+# Support Vector Machine
